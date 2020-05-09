@@ -1,8 +1,8 @@
 # Site settings
 title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: devanbhardwaj12.com
+url: https://github.com/devanbhardwaj12
+description: "If you are looking for an overview of a lot of different philosophical 'branches' and scientific ‘flowers’ (sorry English not my native tongue) emerging from a deep soul of heart and about philosophers,scientists in general, then maybe this is something for you?"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
@@ -42,13 +42,13 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/devan.bhardwaj.7/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/devanbhardwaj12
 
 # Postal address (add as many lines as necessary)
 address:
